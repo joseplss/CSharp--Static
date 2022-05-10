@@ -1,0 +1,14 @@
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\StaticDemo\StaticDemo\bin\Debug\netcoreapp3.1\StaticDemo.exe
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\StaticDemo\StaticDemo\bin\Debug\netcoreapp3.1\StaticDemo.deps.json
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\StaticDemo\StaticDemo\bin\Debug\netcoreapp3.1\StaticDemo.runtimeconfig.json
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\StaticDemo\StaticDemo\bin\Debug\netcoreapp3.1\StaticDemo.runtimeconfig.dev.json
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\StaticDemo\StaticDemo\bin\Debug\netcoreapp3.1\StaticDemo.dll
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\StaticDemo\StaticDemo\bin\Debug\netcoreapp3.1\StaticDemo.pdb
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\StaticDemo\StaticDemo\obj\Debug\netcoreapp3.1\StaticDemo.csproj.AssemblyReference.cache
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\StaticDemo\StaticDemo\obj\Debug\netcoreapp3.1\StaticDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\StaticDemo\StaticDemo\obj\Debug\netcoreapp3.1\StaticDemo.AssemblyInfoInputs.cache
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\StaticDemo\StaticDemo\obj\Debug\netcoreapp3.1\StaticDemo.AssemblyInfo.cs
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\StaticDemo\StaticDemo\obj\Debug\netcoreapp3.1\StaticDemo.csproj.CoreCompileInputs.cache
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\StaticDemo\StaticDemo\obj\Debug\netcoreapp3.1\StaticDemo.dll
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\StaticDemo\StaticDemo\obj\Debug\netcoreapp3.1\StaticDemo.pdb
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\StaticDemo\StaticDemo\obj\Debug\netcoreapp3.1\StaticDemo.genruntimeconfig.cache
